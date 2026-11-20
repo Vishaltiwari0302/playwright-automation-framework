@@ -1,0 +1,8 @@
+{
+  "pets": [
+    { "name": "Rex",    "status": "available" },
+    { "name": "Milo",   "status": "pending"   },
+    { "name": "Luna",   "status": "sold"      }
+  ],
+  "login": { "username": "admin", "password": "Password123!" }
+}
